@@ -1,7 +1,7 @@
 const head = require('./config/head.js');
 const plugins = require('./config/plugins.js');
 const themeConfig = require('./config/themeConfig.js');
-
+// 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
 module.exports = {
   theme: 'vdoing', // 使用npm包主题
   title: "study-notes",
